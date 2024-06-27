@@ -1,16 +1,45 @@
-## Hi there 👋
+## 👋 Bonjour et bienvenue sur mon GitHub !
+Je m'appelle Magaly, et je suis Développeuse Web Fullstack Junior.
 
-<!--
-**Magaly-N/Magaly-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fascinée par la technologie et l'innovation, j'aime découvrir d'autres langages informatiques et explorer de nouvelles techniques de développement.
 
-Here are some ideas to get you started:
+Chaque nouveau langage et framework représente pour moi une opportunité de repousser les limites de ce qui est possible et d'apprendre des approches et des paradigmes différents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 À propos de moi
+
+🎓 Obtention du Titre RNCP de niveau 5, Développeur Web fullstack, 3WAcademy à Bordeaux(33), Avril 2024.
+
+💼 Actuellement, en recherche d'entreprise pour effectuer une alternance Concepteur Développeur d'Applications avec l'école Simplon à  Bègles(33).
+
+💬 N'hésitez pas à me contacter pour discuter de vos intérêts ou projets.
+
+🛠️ Compétences
+
+Langages:
+- HTML
+- CSS
+- SASS
+- JAVASCRIPT
+- SQL
+
+Frameworks et bibliothèques
+- SASS
+- JQUERY
+- REACT
+- NODE.JS
+
+Outils et plateformes
+
+- Visual Studio Code
+- Git
+- phpMyAdmin
+
+📫 Me contacter
+
+LinkedIn: www.linkedin.com/in/magaly-nouguerède
+
+Email: magalynou@hotmail.fr
+
+Merci d'avoir visité mon profil GitHub ! 
+
+
