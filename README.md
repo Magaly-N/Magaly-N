@@ -36,9 +36,9 @@ Outils et plateformes
 
 📫 Me contacter
 
-LinkedIn: www.linkedin.com/in/magaly-nouguerède
+[LinkedIn:] (www.linkedin.com/in/magaly-nouguerède)
 
-Email: magalynou@hotmail.fr
+[Email:] (magalynou@hotmail.fr)
 
 Merci d'avoir visité mon profil GitHub ! 
 
