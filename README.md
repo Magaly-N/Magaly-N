@@ -1,5 +1,5 @@
 ## 👋 Bonjour et bienvenue sur mon GitHub !
-Je m'appelle Magaly et je suis Développeuse Web Fullstack Junior.
+Je m'appelle Magaly et je suis Développeur Web Fullstack Junior.
 
 Fascinée par la technologie et l'innovation, j'aime découvrir d'autres langages informatiques et explorer de nouvelles techniques de développement.
 
