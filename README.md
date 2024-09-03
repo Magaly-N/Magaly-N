@@ -23,7 +23,6 @@ Langages:
 - SQL
 
 Frameworks et bibliothèques
-- SASS
 - JQUERY
 - REACT
 - NODE.JS
